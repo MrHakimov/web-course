@@ -1,0 +1,6 @@
+[#ftl]
+[#-- @implicitly included --]
+[#-- @ftlvariable name="UsersLink" type="ru.itmo.tpl.model.User[]" --]
+[#-- @ftlvariable name="user" type="ru.itmo.tpl.model.User" --]
+[#-- @ftlvariable name="posts" type="ru.itmo.tpl.model.Post[]" --]
+[#-- @ftlvariable name="post" type="ru.itmo.tpl.model.Post" --]
