@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd36f40-7e03-4856-9b2d-acefc9a6eae5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="ProjectId" id="1UGIU7qDSd7vJhxUWCuwtiwRhTG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebCourse8/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.itmo.wp.WpApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd36f40-7e03-4856-9b2d-acefc9a6eae5" name="Default Changelist" comment="" />
+      <created>1574976517432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574976517432</updated>
+      <workItem from="1574976524415" duration="1663000" />
+      <workItem from="1574979260357" duration="5352000" />
+      <workItem from="1574985538503" duration="14105000" />
+      <workItem from="1575000087087" duration="2911000" />
+      <workItem from="1575003108097" duration="16000" />
+      <workItem from="1575022411989" duration="3653000" />
+      <workItem from="1575400259443" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="58" width="800" height="677" key="#Project_Structure" timestamp="1574977244908">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="303" y="58" width="800" height="677" key="#Project_Structure/51.27.1315.741@51.27.1315.741" timestamp="1574977244908" />
+    <state x="297" y="27" width="827" height="741" key="#WpApplication" timestamp="1574977488248">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="297" y="27" width="827" height="741" key="#WpApplication/51.27.1315.741@51.27.1315.741" timestamp="1574977488248" />
+    <state x="166" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575022497757">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="166" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.27.1315.741@51.27.1315.741" timestamp="1575022497757" />
+    <state x="516" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1574996416300">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="516" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/51.27.1315.741@51.27.1315.741" timestamp="1574996416300" />
+    <state x="440" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1574977475782">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="440" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/51.27.1315.741@51.27.1315.741" timestamp="1574977475782" />
+    <state x="549" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1574977774716">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="549" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/51.27.1315.741@51.27.1315.741" timestamp="1574977774716" />
+    <state x="491" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575400318143">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="491" y="155" width="424" height="484" key="FileChooserDialogImpl/51.27.1315.741@51.27.1315.741" timestamp="1575400318143" />
+    <state width="1269" height="219" key="GridCell.Tab.0.bottom" timestamp="1575032970037">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.0.bottom/51.27.1315.741@51.27.1315.741" timestamp="1575032970037" />
+    <state width="1269" height="219" key="GridCell.Tab.0.center" timestamp="1575032970036">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.0.center/51.27.1315.741@51.27.1315.741" timestamp="1575032970036" />
+    <state width="1269" height="219" key="GridCell.Tab.0.left" timestamp="1575032970035">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.0.left/51.27.1315.741@51.27.1315.741" timestamp="1575032970035" />
+    <state width="1269" height="219" key="GridCell.Tab.0.right" timestamp="1575032970037">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.0.right/51.27.1315.741@51.27.1315.741" timestamp="1575032970037" />
+    <state width="1269" height="219" key="GridCell.Tab.1.bottom" timestamp="1575032970039">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.1.bottom/51.27.1315.741@51.27.1315.741" timestamp="1575032970039" />
+    <state width="1269" height="219" key="GridCell.Tab.1.center" timestamp="1575032970039">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.1.center/51.27.1315.741@51.27.1315.741" timestamp="1575032970039" />
+    <state width="1269" height="219" key="GridCell.Tab.1.left" timestamp="1575032970038">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.1.left/51.27.1315.741@51.27.1315.741" timestamp="1575032970038" />
+    <state width="1269" height="219" key="GridCell.Tab.1.right" timestamp="1575032970039">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.1.right/51.27.1315.741@51.27.1315.741" timestamp="1575032970039" />
+    <state width="1269" height="219" key="GridCell.Tab.2.bottom" timestamp="1575032970040">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.2.bottom/51.27.1315.741@51.27.1315.741" timestamp="1575032970040" />
+    <state width="1269" height="219" key="GridCell.Tab.2.center" timestamp="1575032970040">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.2.center/51.27.1315.741@51.27.1315.741" timestamp="1575032970040" />
+    <state width="1269" height="219" key="GridCell.Tab.2.left" timestamp="1575032970039">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.2.left/51.27.1315.741@51.27.1315.741" timestamp="1575032970039" />
+    <state width="1269" height="219" key="GridCell.Tab.2.right" timestamp="1575032970040">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="1269" height="219" key="GridCell.Tab.2.right/51.27.1315.741@51.27.1315.741" timestamp="1575032970040" />
+    <state x="291" y="133" width="824" height="526" key="IDE.errors.dialog" timestamp="1574989320422">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="291" y="133" width="824" height="526" key="IDE.errors.dialog/51.27.1315.741@51.27.1315.741" timestamp="1574989320422" />
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575400255314">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog/51.27.1315.741@51.27.1315.741" timestamp="1575400255314" />
+    <state x="353" y="132" width="710" height="528" key="find.popup" timestamp="1575001924074">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="353" y="132" width="710" height="528" key="find.popup/51.27.1315.741@51.27.1315.741" timestamp="1575001924074" />
+    <state x="404" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1574996517365">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="404" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/51.27.1315.741@51.27.1315.741" timestamp="1574996517365" />
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1574998473911">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup/51.27.1315.741@51.27.1315.741" timestamp="1574998473911" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/controller/Page.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/service/NoticeService.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/repository/NoticeRepository.java</url>
+          <line>8</line>
+          <properties class="ru.itmo.wp.repository.NoticeRepository" method="findAllByOrderByCreationTimeDesc" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

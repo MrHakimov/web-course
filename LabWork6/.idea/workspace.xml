@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lesson5:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fc762f3-c6bc-4839-9a01-5b1b47da5d27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1TcIEO0GPPzO1ivwNzztrNgX2Z7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebCourse6.1/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lesson5:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_lesson5_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="38979" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lesson5:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fc762f3-c6bc-4839-9a01-5b1b47da5d27" name="Default Changelist" comment="" />
+      <created>1573752844935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573752844935</updated>
+      <workItem from="1573752850586" duration="698000" />
+      <workItem from="1573755599274" duration="3293000" />
+      <workItem from="1573760803099" duration="4694000" />
+      <workItem from="1573766376566" duration="10165000" />
+      <workItem from="1573816675760" duration="7118000" />
+      <workItem from="1573940451259" duration="1785000" />
+      <workItem from="1574069093796" duration="1212000" />
+      <workItem from="1574169077665" duration="125000" />
+      <workItem from="1574354413656" duration="2697000" />
+      <workItem from="1574360527904" duration="12797000" />
+      <workItem from="1574374377907" duration="7896000" />
+      <workItem from="1574413287202" duration="4851000" />
+      <workItem from="1574975194488" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1574975347435">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="549" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/51.27.1315.741@51.27.1315.741" timestamp="1574975347435" />
+    <state x="491" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1574975537895">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="491" y="155" width="424" height="484" key="FileChooserDialogImpl/51.27.1315.741@51.27.1315.741" timestamp="1574975537895" />
+    <state width="853" height="162" key="GridCell.Tab.0.bottom" timestamp="1574975543922">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.0.bottom/51.27.1315.741@51.27.1315.741" timestamp="1574975543922" />
+    <state width="853" height="162" key="GridCell.Tab.0.center" timestamp="1574975543922">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.0.center/51.27.1315.741@51.27.1315.741" timestamp="1574975543922" />
+    <state width="853" height="162" key="GridCell.Tab.0.left" timestamp="1574975543921">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.0.left/51.27.1315.741@51.27.1315.741" timestamp="1574975543921" />
+    <state width="853" height="162" key="GridCell.Tab.0.right" timestamp="1574975543922">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.0.right/51.27.1315.741@51.27.1315.741" timestamp="1574975543922" />
+    <state width="853" height="162" key="GridCell.Tab.1.bottom" timestamp="1574975543923">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.1.bottom/51.27.1315.741@51.27.1315.741" timestamp="1574975543923" />
+    <state width="853" height="162" key="GridCell.Tab.1.center" timestamp="1574975543923">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.1.center/51.27.1315.741@51.27.1315.741" timestamp="1574975543923" />
+    <state width="853" height="162" key="GridCell.Tab.1.left" timestamp="1574975543922">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.1.left/51.27.1315.741@51.27.1315.741" timestamp="1574975543922" />
+    <state width="853" height="162" key="GridCell.Tab.1.right" timestamp="1574975543923">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.1.right/51.27.1315.741@51.27.1315.741" timestamp="1574975543923" />
+    <state width="853" height="162" key="GridCell.Tab.2.bottom" timestamp="1574975543924">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.2.bottom/51.27.1315.741@51.27.1315.741" timestamp="1574975543924" />
+    <state width="853" height="162" key="GridCell.Tab.2.center" timestamp="1574975543924">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.2.center/51.27.1315.741@51.27.1315.741" timestamp="1574975543924" />
+    <state width="853" height="162" key="GridCell.Tab.2.left" timestamp="1574975543924">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.2.left/51.27.1315.741@51.27.1315.741" timestamp="1574975543924" />
+    <state width="853" height="162" key="GridCell.Tab.2.right" timestamp="1574975543924">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state width="853" height="162" key="GridCell.Tab.2.right/51.27.1315.741@51.27.1315.741" timestamp="1574975543924" />
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1574975198656">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog/51.27.1315.741@51.27.1315.741" timestamp="1574975198656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/web/page/MyArticlesPage.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/model/repository/impl/ArticleRepositoryImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/web/page/UsersPage.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/itmo/wp/web/page/UsersPage.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
