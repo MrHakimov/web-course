@@ -20,6 +20,6 @@ I will soon add short descriptions of labs from 5 to 8, now I will just leave li
 
 8. [Laboratory work #8](/LabWork8)
 
-9. The main idea of this lab was to get basics of Vue.js Framework. We had static data and our task was just to show this data correctly at front-end using Vue.js. Link: [Laboratory work #9](/LabWork9)
+9. The main idea of this lab was to get basics of `Vue.js Framework`. We had static data and our task was just to show this data correctly at front-end using `Vue.js`. Link: [Laboratory work #9](/LabWork9)
 
-10. At the last lab we developed an application with back-end at Spring Framework (Spring Boot Application) and front-end at Vue.js Framework. Link: [Laboratory work #10](/LabWork10)
+10. At the last lab we developed an application with back-end at `Spring Framework (Spring Boot Application)` and front-end at `Vue.js Framework`. Link: [Laboratory work #10](/LabWork10)
