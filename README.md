@@ -1,5 +1,5 @@
 # web-course
-Here you can find my laboratory works of `Web-programming course` taught by **Mike Mirzayanov**.
+Here you can find my laboratory works of `Web-programming course` taught by **Mike Mirzayanov** - Founder and CEO of [CodeForces.com](https://codeforces.com) - top-1 platform at the world for competitive programming..
 
 1. First laboratory work was about `curl` and we also debugged server written by **Mike** in **Java**.
 Link: [Laboratory work #1](/LabWork1)
